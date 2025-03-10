@@ -18,8 +18,7 @@ Before running the backend, ensure that you have the following software installe
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/Abhay17pawar/attack-capital.git
-
+git clone https://github.com/Abhay17pawar/attackcapital_backend.git
 ```
 2. Install Dependencies
 ```bash
